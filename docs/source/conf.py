@@ -14,7 +14,6 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-
 # -- Project information -----------------------------------------------------
 
 project = 'simplelayout-AnjaZhang'
@@ -23,7 +22,6 @@ author = 'zhangxiaoya'
 
 # The full version, including alpha/beta/rc tags
 release = 'https://github.com/idrl-assignment/3-simplelayout-package-AnjaZhang'
-
 
 # -- General configuration ---------------------------------------------------
 

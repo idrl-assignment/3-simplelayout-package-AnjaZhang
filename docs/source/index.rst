@@ -8,8 +8,8 @@ Welcome to simplelayout-AnjaZhang's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
+   :caption: Contents:markdown
+   layout
 
 
 Indices and tables
